@@ -7,8 +7,8 @@
 ## 🚀 About Me
 I'm a passionate developer building **scalable apps** and exploring **AI & Cloud technologies**.  
 
-- 🔧 **Languages & Frameworks:** Java, Python, JavaScript, React, Node.js  
-- ☁️ **Cloud & DevOps:** AWS, Google Cloud, Docker  
+- 🔧 **Languages & Frameworks:** Java, HTML, CSS , JavaScript, Python,  
+- ☁️ **Cloud & DevOps:** AWS, Azure 
 - 🧠 **AI & Machine Learning:** NLP, Computer Vision, Deep Learning  
 
 ---
@@ -35,14 +35,5 @@ Responsive restaurant website with menu & reservation system.
 AI-powered **resume analyzer** for ATS compatibility using NLP.  
 *Tech:* Python, Streamlit, NLP  
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek11malik&show_icons=true&theme=radical&count_private=true"/>
-</p>
 
-## 🌐 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek11malik&layout=compact&theme=radical"/>
-</p>
